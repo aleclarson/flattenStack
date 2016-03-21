@@ -1,0 +1,8 @@
+{
+  "name": "flattenStack",
+  "version": "1.0.0",
+  "main": "./js/src/flattenStack",
+  "dependencies": {
+    "parseErrorStack": "aleclarson/parseErrorStack#1.0.0"
+  }
+}
